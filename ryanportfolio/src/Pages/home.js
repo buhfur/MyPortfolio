@@ -47,9 +47,9 @@ class home extends Component {
 			  </div>
 			  
 
-			  <script src="js/scripts.min.js"></script>
-			  <script src="js/main.min.js"></script>
-			  <script src="js/custom.js"></script>
+			  <script src="../public/assets/js/scripts.min.js"></script>
+			  <script src="../public/assets/js/main.min.js"></script>
+			  <script src="../public/assets/js/custom.js"></script>
 		</body>
 )
     }
